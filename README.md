@@ -1,2 +1,2 @@
 # python-toybox
-A repository filled with mini python projects made for fun.
+A repository filled with mini python projects for fun and practice. 
